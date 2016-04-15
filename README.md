@@ -14,6 +14,7 @@ Most commands are local, makes operations fast
 Its free and open source
 Easy to find developers with git experience
 Most popular version control system (defacto standard)
+http://stackoverflow.com/research/developer-survey-2015
 
 ## Repository
 Collection of files managed by git
@@ -67,3 +68,17 @@ Show how to setup alias and make pretty git logs
 How to exclude files and folders (.gitignore)
 How to resolve a conflict
 
+
+
+## Resources
+
+
+
+https://github.com/appacademy/ruby-curriculum/blob/master/w1d2/git-summary.md
+https://github.com/appacademy/ruby-curriculum/blob/master/w1d5/git-workflow.md
+https://github.com/appacademy/ruby-curriculum/blob/master/w1d5/alias.md
+https://github.com/appacademy/ruby-curriculum/blob/master/w1d5/git-fix-authorship.md
+http://www.ndpsoftware.com/git-cheatsheet.html#loc=stash;
+https://github.com/appacademy/ruby-curriculum/blob/master/w1d5/git-workflow.md
+http://pcottle.github.io/learnGitBranching/
+http://staxmanade.com/2013/02/how-do-i-undo-bad-rebase-in-git/

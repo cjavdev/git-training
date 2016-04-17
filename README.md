@@ -68,17 +68,13 @@ Show how to setup alias and make pretty git logs
 How to exclude files and folders (.gitignore)
 How to resolve a conflict
 
-
-
 ## Resources
 
-
-
-https://github.com/appacademy/ruby-curriculum/blob/master/w1d2/git-summary.md
-https://github.com/appacademy/ruby-curriculum/blob/master/w1d5/git-workflow.md
-https://github.com/appacademy/ruby-curriculum/blob/master/w1d5/alias.md
-https://github.com/appacademy/ruby-curriculum/blob/master/w1d5/git-fix-authorship.md
+https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 http://www.ndpsoftware.com/git-cheatsheet.html#loc=stash;
-https://github.com/appacademy/ruby-curriculum/blob/master/w1d5/git-workflow.md
 http://pcottle.github.io/learnGitBranching/
 http://staxmanade.com/2013/02/how-do-i-undo-bad-rebase-in-git/
+http://blog.codinghorror.com/code-reviews-just-do-it/ (code review can decrease errors by 55-60%)
+http://blog.endpoint.com/2014/05/git-workflows-that-work.html
+
+show how to change bash prompt to include git branch
